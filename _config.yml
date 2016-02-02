@@ -1,0 +1,28 @@
+name: the trader and his lover
+favicon: null
+layout_spectrum: 0.523512261454016
+typography_spectrum: 0.76977
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#b5b6b0'
+    - '#fefefe'
+    - '#101415'
+    - '#434d4f'
+    - '#b23813'
+  brandStrength: 0.15386590734124184
+  lightness: 0.6398858861066401
+  saturation: 0.5211487100459635
+  rhythmicContrast: 0.12826747400686145
+purpose: []

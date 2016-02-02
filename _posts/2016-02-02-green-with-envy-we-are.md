@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: commercial interiors
-datePublished: '2016-02-02T04:33:12.584Z'
-dateModified: '2016-02-02T04:30:47.087Z'
+datePublished: '2016-02-02T05:36:36.958Z'
+dateModified: '2016-02-02T05:36:12.946Z'
 title: green with envy? we are
 author: []
 authors: []
